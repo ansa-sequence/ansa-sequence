@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on boost.asio library
 - 📫 How to reach me 
 [vk](https://vk.com/ansa.sequence)
-[tg](@NoHaxEx)
-[inst](@sahil_is_baku)
+[tg](https://t.me/NoHaxEx)
+[inst](https://www.instagram.com/sahil_is_baku/)
 [mail](ansa.sequence@gmail.com)
 
 <!---
