@@ -6,7 +6,7 @@
 [vk](https://vk.com/ansa.sequence)
 [tg](https://t.me/NoHaxEx)
 [inst](https://www.instagram.com/sahil_is_baku/)
-[mail](ansa.sequence@gmail.com)
+mail - ansa.sequence@gmail.com
 
 <!---
 ansa-sequence-dv/ansa-sequence-dv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
