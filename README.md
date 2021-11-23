@@ -5,11 +5,11 @@
 
 **Languages and Tools:**  
 <div class="tools_and_languages">
-  <code><img height="30" src="./.vs/C++_logo.png" alt="C++" width="48px"/></code>
-  <code><img height="30" src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/></code>
-  <code><img height="30" src="./.vs/Git_logo.png" alt="Git" width="44px"/></code>
-  <code><img height="30" src="./.vs/CMake_logo.png" alt="CMake" width="50px"/></code>
-  <code><img height="30" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
+  <code><img height="35" src="./.vs/C++_logo.png" alt="C++" width="48px"/></code>
+  <code><img height="35" src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/></code>
+  <code><img height="35" src="./.vs/Git_logo.png" alt="Git" width="44px"/></code>
+  <code><img height="35" src="./.vs/CMake_logo.png" alt="CMake" width="50px"/></code>
+  <code><img height="35" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
 </div>
 
 [![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&show_owner=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
