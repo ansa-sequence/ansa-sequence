@@ -1,8 +1,3 @@
-**Contacts**
-- [Vkontakte](https://vk.com/ansa.sequence)
-- [Telegram](https://t.me/NoHaxEx)
-- [Instagram](https://www.instagram.com/sahil_is_baku/)
-
 [![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&show_owner=true&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**  
@@ -13,6 +8,11 @@
   <code><img height="35" src="./.vs/CMake_logo.png" alt="CMake" width="50px"/></code>
   <code><img height="35" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
 </div>
+
+**Contacts**
+- [Vkontakte](https://vk.com/ansa.sequence)
+- [Telegram](https://t.me/NoHaxEx)
+- [Instagram](https://www.instagram.com/sahil_is_baku/)
 
 
 <a href="https://twitter.com/KulievSakhil">
