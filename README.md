@@ -1,5 +1,6 @@
+---
 [![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&show_owner=true&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 ## Languages and Tools:  
 <div class="tools_and_languages">
   <code><img height="35" src="./.vs/C++_logo.png" alt="C++" width="48px"/></code>
