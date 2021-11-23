@@ -8,6 +8,8 @@
 [inst](https://www.instagram.com/sahil_is_baku/)
 mail - ansa.sequence@gmail.com
 
+[![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence)](https://github.com/anuraghazra/github-readme-stats)
+
 <div class="tools_and_languages">
   <img src="./.vs/C++_logo.png" alt="C++" width="48px"/>
   <img src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/>
