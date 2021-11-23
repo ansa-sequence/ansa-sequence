@@ -17,6 +17,7 @@
 
 **Languages and Tools:**  
 <div class="tools_and_languages">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <img src="./.vs/C++_logo.png" alt="C++" width="48px"/>
   <img src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/>
   <img src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/>
