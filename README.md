@@ -12,7 +12,7 @@
 - [Telegram](https://t.me/NoHaxEx)
 - [Instagram](https://www.instagram.com/sahil_is_baku/)
 
-![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true)
+![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&locale=center)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansa-sequence&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**  
