@@ -1,10 +1,5 @@
 
-**About me**
-- 👋 Hi, I’m @ansa-sequence-dv
-- 👀 I’m interested in c++ and boost library
-- 🌱 I’m currently learning boost and sdl2
-- 💞️ I’m looking to collaborate on boost.asio library
-- 📫 How to reach me 
+                                                Coming Soon🤘🏻🔥
 
 
 **Contacts**
