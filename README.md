@@ -17,12 +17,11 @@
 
 **Languages and Tools:**  
 <div class="tools_and_languages">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <img src="./.vs/C++_logo.png" alt="C++" width="48px"/>
-  <img src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/>
-  <img src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/>
-  <img src="./.vs/Git_logo.png" alt="Git" width="44px"/>
-  <img src="./.vs/CMake_logo.png" alt="CMake" width="50px"/>
+  <code><img height="20" src="./.vs/C++_logo.png" alt="C++" width="48px"/></code>
+  <code><img height="20" src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/></code>
+  <code><img height="20" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
+  <code><img height="20" src="./.vs/Git_logo.png" alt="Git" width="44px"/></code>
+  <code><img height="20" src="./.vs/CMake_logo.png" alt="CMake" width="50px"/></code>
 </div>
 
 <a href="https://twitter.com/KulievSakhil">
