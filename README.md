@@ -1,7 +1,3 @@
-
-                                                                              Coming Soon🤘🏻🔥
-
-
 **Contacts**
 - [Vkontakte](https://vk.com/ansa.sequence)
 - [Telegram](https://t.me/NoHaxEx)
