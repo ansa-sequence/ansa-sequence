@@ -19,9 +19,9 @@
 <div class="tools_and_languages">
   <code><img height="30" src="./.vs/C++_logo.png" alt="C++" width="48px"/></code>
   <code><img height="30" src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/></code>
-  <code><img height="30" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
   <code><img height="30" src="./.vs/Git_logo.png" alt="Git" width="44px"/></code>
   <code><img height="30" src="./.vs/CMake_logo.png" alt="CMake" width="50px"/></code>
+  <code><img height="30" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
 </div>
 
 <a href="https://twitter.com/KulievSakhil">
