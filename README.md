@@ -16,7 +16,7 @@
 
 [![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&show_owner=true&hide_border=true&layout=compact)
 
-[![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence)](https://github.com/anuraghazra/github-readme-stats)
+[![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&show_owner=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://twitter.com/KulievSakhil">
