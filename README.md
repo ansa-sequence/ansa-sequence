@@ -1,5 +1,5 @@
 
-** About me **
+**About me**
 - 👋 Hi, I’m @ansa-sequence-dv
 - 👀 I’m interested in c++ and boost library
 - 🌱 I’m currently learning boost and sdl2
@@ -7,14 +7,14 @@
 - 📫 How to reach me 
 
 
-** Contacts **
+**Contacts**
 - [Vkontakte](https://vk.com/ansa.sequence)
 - [Telegram](https://t.me/NoHaxEx)
 - [Instagram](https://www.instagram.com/sahil_is_baku/)
 
 [![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence)](https://github.com/anuraghazra/github-readme-stats)
 
-** Languages and Tools: **  
+**Languages and Tools:**  
 <div class="tools_and_languages">
   <img src="./.vs/C++_logo.png" alt="C++" width="48px"/>
   <img src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/>
