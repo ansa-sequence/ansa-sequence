@@ -19,7 +19,6 @@
 
 
 ![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&show_owner=true&hide_border=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansa-sequence&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://twitter.com/KulievSakhil">
   <img align="right" alt="Ansa Sequence | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
