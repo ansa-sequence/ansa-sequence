@@ -17,6 +17,7 @@
 
 **Languages and Tools:**  
 <div class="tools_and_languages">
+  <code><img height="20" src="./.vs/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++" width="48px"/></code>
   <code><img height="20" src="./.vs/C++_logo.png" alt="C++" width="48px"/></code>
   <code><img height="20" src="./.vs/Qt_logo.png" alt="Qt framework" width="58px"/></code>
   <code><img height="20" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
