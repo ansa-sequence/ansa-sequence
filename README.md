@@ -9,8 +9,6 @@
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="44px"/></code>
   <code><img height="35" src="./.vs/CMake_logo.png" alt="CMake" width="50px"/></code>
   <code><img height="35" src="./.vs/Boost_logo.png" alt="Boost C++ libraries" width="98px"/></code>
----
-[![Ansa-sequence's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&theme=dracula&count_private=true&show_owner=true&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://twitter.com/KulievSakhil">
