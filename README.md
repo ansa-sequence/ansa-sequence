@@ -1,3 +1,5 @@
+I'm a self-taught passionate Backend developer from Russia
+
 **About Me**
 - 💼 Freelance
 - 📈 From Russia with Love
