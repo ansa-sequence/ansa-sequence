@@ -1,7 +1,7 @@
 **Contacts**
-- <code><a href="https://vk.com/ansa.sequence"><img height="35" align="center" src="./.vs/C++_logo.png"></a></code>
-- [Telegram](https://t.me/NoHaxEx)
-- [Instagram](https://www.instagram.com/sahil_is_baku/)
+- <code><a href="https://vk.com/ansa.sequence"><img height="35" align="center" src="./.vs/vk.png"></a></code>
+- <code><a href="https://t.me/NoHaxEx"><img height="35" align="center" src="./.vs/telega.png"></a></code>
+- <code><a href="https://www.instagram.com/sahil_is_baku/"><img height="35" align="center" src="./.vs/insta.png"></a></code>
 ---
 **Languages and Tools:**
   <code><img height="35" src="./.vs/C++_logo.png" alt="C++" width="48px"/></code>
