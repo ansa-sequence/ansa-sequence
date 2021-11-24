@@ -1,5 +1,5 @@
 **Contacts**
-- <code><a href="https://vk.com/ansa.sequence"><img height="20" align="center" src="./.vs/C++_logo.png"></a></code>
+- <code><a href="https://vk.com/ansa.sequence"><img height="35" align="center" src="./.vs/C++_logo.png"></a></code>
 - [Telegram](https://t.me/NoHaxEx)
 - [Instagram](https://www.instagram.com/sahil_is_baku/)
 ---
