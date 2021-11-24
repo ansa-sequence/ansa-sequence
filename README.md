@@ -9,7 +9,7 @@
 - <code><a href="https://t.me/NoHaxEx"><img height="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></a></code>
 - <code><a href="https://www.instagram.com/sahil_is_baku/"><img height="35" align="center" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"></a></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ansa-sequence's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansa-sequence&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ansa-sequence&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Ansa-sequence's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansa-sequence&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://twitter.com/KulievSakhil">
