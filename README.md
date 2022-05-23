@@ -1,7 +1,7 @@
 I'm a self-taught passionate Backend developer from Russia
 
 **About Me**
-- 💼 Freelance
+- 💼 Sperasoft
 - 📈 From Russia with Love
 - ❤️ Love C++
 - 💬 Ask me about anything 
