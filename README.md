@@ -1,4 +1,4 @@
-I'm a self-taught passionate game engine developer from Russia
+I'm a self-taught passionate Software Engineer from Russia
 
 **About Me**
 - 💼 Sperasoft
