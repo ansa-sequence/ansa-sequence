@@ -2,7 +2,6 @@ I'm a self-taught passionate Software Engineer from Russia
 
 **About Me**
 - 💼 Sperasoft
-- 📈 From Azerbaijan with Love
 - ❤️ Love C++
 - 💬 Ask me about anything 
 
